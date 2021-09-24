@@ -1,0 +1,58 @@
+header {
+  background-image: linear-gradient(#e52d27, #b31217);
+}
+
+.header {
+  height: 400px;
+}
+
+.dropdown {
+  margin-top: auto;
+  margin-bottom: auto;
+  display: block;
+}
+
+/* Main */
+
+.title-hero {
+  text-align: center;
+  margin-top: 1em !important;
+}
+
+.description-hero {
+  text-align: center;
+}
+
+main {
+  height: 700px;
+}
+
+.choose-text {
+  color: rgb(230, 230, 230);
+  text-align: center;
+  font-size: 5em;
+}
+
+/* Footer */
+
+footer {
+  height: 50px;
+  background-color: #202020;
+}
+
+.github {
+  text-decoration: none;
+  color: white;
+  font-size: 2em;
+}
+.github:hover {
+  color: #e52d27;
+}
+
+.text-center {
+  text-align: center;
+}
+
+.icon-github {
+  margin-top: 0.5em;
+}
